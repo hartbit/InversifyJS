@@ -35,11 +35,7 @@ typings
 .typingsrc
 dist
 dts
-lib
 temp
-es
-es6
-amd
 
 type_definitions/inversify/*.js
 
